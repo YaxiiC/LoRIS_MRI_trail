@@ -46,4 +46,4 @@ python3 stats.py --name loris_cv
 The code generates a stats folder contating results for the folder containing --name in the path.
 
 ## Credits
-This work was greatly inspired by this implementation of [RIAD](https://www.google.com](https://github.com/plutoyuxie/Reconstruction-by-inpainting-for-visual-anomaly-detection/tree/main)https://github.com/plutoyuxie/Reconstruction-by-inpainting-for-visual-anomaly-detection/tree/main)
+This work was greatly inspired by this implementation of [RIAD](https://github.com/plutoyuxie/Reconstruction-by-inpainting-for-visual-anomaly-detection.git)
